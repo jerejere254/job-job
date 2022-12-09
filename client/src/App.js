@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Navbar from "./components/NavBar/NavBar";
+import Navbar from "./components/NavBar/Navbar";
 import JobList from "./components/JobList/JobList";
 import JobDetails from "./components/JobDetails/JobDetails";
 import { Route, Routes } from "react-router-dom";
