@@ -6,7 +6,7 @@ import {
   NavMenu,
   NavBtn,
   NavBtnLink,
-} from "./NavbarElements";
+} from "./NavBarElements";
 
 const Navbar = ({ setUser, user }) => {
   function handleLogoutClick() {

@@ -75,7 +75,7 @@ export default function Login({ setUser }) {
             Forgot <a href="#">password?</a>
           </p> */}
 
-          {errors != "" ? (
+          {errors !=="" ? (
             <ul style={{ color: "red" }}>
               <li>{errors}</li>
             </ul>
